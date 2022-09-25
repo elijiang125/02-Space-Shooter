@@ -5,7 +5,8 @@ A simple 2D space shooter
 
 ## Implementation
 
-Keyboard control, top-down ship that can shoot asteroids and an enemy
+Keyboard control, top-down ship that can shoot asteroids and an enemy,
+added background image
 
 ## References
 https://kenney.nl/assets/simple-space
